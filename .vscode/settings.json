@@ -1,0 +1,22 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\msys32\\home\\sangh\\esp\\xtensa-lx106-elf\\bin\\xtensa-lx106-elf-gcc.exe",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "c:\\msys32\\home\\sangh\\esp\\xtensa-lx106-elf\\lib\\gcc\\xtensa-lx106-elf\\8.4.0\\include",
+        "c:\\msys32\\home\\sangh\\esp\\xtensa-lx106-elf\\lib\\gcc\\xtensa-lx106-elf\\8.4.0\\include-fixed",
+        "c:\\msys32\\home\\sangh\\esp\\xtensa-lx106-elf\\xtensa-lx106-elf\\include",
+        "c:\\msys32\\home\\sangh\\esp\\ESP8266_RTOS_SDK\\components\\**"
+    ],
+    "terminal.integrated.profiles.windows": {
+        "MinGW32": {
+            "path": "C:\\msys32\\usr\\bin\\bash.exe",
+            "args": ["--login", "-i"],
+            "env": {
+                "MSYSTEM": "MINGW32",
+                "CHERE_INVOKING": "1"
+            }
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "MinGW32",
+    "idf.currentSetup": "C:\\esp\\v5.5.3\\esp-idf"
+}
